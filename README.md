@@ -1,2 +1,2 @@
 # RGB_led
-Det här är en labb för att styra en RGB led
+This is a lab for controlling an RGB LED
